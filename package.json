@@ -1,0 +1,11 @@
+{
+  "name": "txbuilder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "@terra-money/feather.js": "^2.0.4",
+    "commander": "^12.0.0"
+  }
+}
